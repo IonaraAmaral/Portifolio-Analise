@@ -19,22 +19,6 @@ A imagem abaixo irá indicar como foi feita a análise deste projeto, onde foi u
 3. Descrição em alto nivel da funcionalidade indicando o usuário que irá utilizar, a funcionalidade desejada e o porque da existencia desta funcionalidade.
 4. Listagem das regras de negócio a serem implementadas.
 
-### Referência da analise
-
-- REQ 1 -Exibir Splash Screen
-
-- REQ 2 - Criar padrão de Hedear
-
-- REQ 3 - TOP 10 Podcast
-
-- REQ 4 - Exibir as categorias de Podcast
-
-- REQ 5 - Exibir as Recomendações
-
-- REQ 6 - Tela Inicial do Podcast
-
-- REQ 7 - Exibir a lista de todos os episódios
-
-- REQ 8- Exibição do Player de Execução do Podcast
 
 ![Referencia do Prototipo](../podcastapp\podcst\imagem\img\imgtodosreq.png)
+
